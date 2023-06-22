@@ -4,7 +4,7 @@
 
 import os
 
-FILE_PATH = r"Семинар_8\base.txt"
+FILE_PATH = r"base.txt"
 
 def read_base():
     with open(FILE_PATH, 'r') as f:
